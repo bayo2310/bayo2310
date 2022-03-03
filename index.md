@@ -1,4 +1,4 @@
-[Mis Gustos](./gustos.md)
+[Mis Gustos](./gustos.md) [mis habilidades sociales y tecnologicas](./habilidades sociales y academicas.md) 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bayo2310/bayo2310.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
