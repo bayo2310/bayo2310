@@ -1,4 +1,5 @@
 ## Mis Habilidaes Sociales y Academicas 
+
 | MIS HABILIDADES | MIS DEVILIDADES | 
 | --- | ------------- |
 | PUEDO HACER MUCHOS AMIGOS | DOY MUCHA CONFIANZA |
