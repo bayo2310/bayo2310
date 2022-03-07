@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |_MIS GUSTOS_| MIS NO GUSTOS |....| 
 |------------|---------------|----|
 |_FUTBOL_    | COCACOLA      |....|
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
